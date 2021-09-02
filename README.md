@@ -8,16 +8,8 @@ Program design and data manipulation with Python. Overview of data structures, i
 <summary>Click to expand!</summary>
 <p>
 	
-By the end of the course, students are expected to:
+aaa
 
-1. Translate fundamental programming concepts such as loops, conditionals, etc into Python code.
-2. Understand the key data structures in Python.
-3. Understand how to write functions in Python and assess if they are correct via unit testing.
-4. Know when and how to abstract code (e.g., into functions, or classes) to make it more modular and robust.
-5. Produce human-readable code that incorporates best practices of programming, documentation, and coding style.
-6. Use NumPy perform common data wrangling and computational tasks in Python.
-7. Use Pandas to create and manipulate data structures like Series and DataFrames.
-8. Wrangle different types of data in Pandas including numeric data, strings, and datetimes.
 
 Specific learning objectives can be found in the [Lecture Learning Objectives](lecture_learning_objectives.md) document.
 
